@@ -1,6 +1,6 @@
 # ProjectAssistantExecute
 
 Executing
-(1) Using PowerShell
-(2) cd Exec/Windows
-(3) .\PAUIController.exe
+<br>(1) Using PowerShell
+<br>(2) cd Exec/Windows
+<br>(3) .\PAUIController.exe
